@@ -114,7 +114,7 @@ EcoSphere is an innovative urban microclimate control system designed to address
 
 We welcome contributions to the EcoSphere project! Here’s how you can help:
 1. **Fork the Repository**: Click the "Fork" button at the top of this page to create a copy of this repository on your GitHub account.
-2. **Clone the Repository**: Clone the forked repository to your local machine using `git clone https://github.com/your-username/EcoSphere.git`.
+2. **Clone the Repository**: Clone the forked repository to your local machine using `git clone https://github.com/jasstej/EcoSphere.git`.
 3. **Create a Branch**: Create a new branch for your feature or bug fix using `git checkout -b feature-name`.
 4. **Make Changes**: Make your changes and commit them with descriptive messages.
 5. **Push to GitHub**: Push your changes to GitHub using `git push origin feature-name`.
